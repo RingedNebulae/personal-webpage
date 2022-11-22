@@ -1,34 +1,22 @@
-name: Ian Li
+name: Xin Yan
 
-label: UI Designer
+label: Postdoctoral researcher
 
 picture: /img/profile-picture.jpg
 
-email: ianli@ianli.com
+email: io.yanxin@gmail.com
 
 phone: 
 
-department: Android UX
+department: Interdisciplinary Research Center(IRC)
 
-institution: Google
+institution: Shandong University
 
 mailing_address: >
-  1600 Amphitheatre Parkway
-  Mountain View, CA 94043
+  72 Binhai Road, Jimo
+  Qingdao, P.R. China
 
-profiles:
-  - 
-    network: Google Scholar
-    username:
-    url: http://scholar.google.com/citations?user=JS7sVyQAAAAJ&hl=en
-  -
-    network: LinkedIn
-    username:
-    url: https://www.linkedin.com/pub/ian-li/1/681/8b0
-  -
-    network: Twitter
-    username: ianli
-    url: https://twitter.com/ianli/
+
 
 intro:
   title: Hello!
