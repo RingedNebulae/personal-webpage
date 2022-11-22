@@ -13,7 +13,7 @@
   authors: Yu Xing, Yu Zhou, Xin Yan, Haisen Zhao, Wenqiang Liu, Jingbo Jiang, Lin Lu
   journal: Computers & Graphics
   volume: 97
-  issue: 
+  issue: 1
   year: 2021
   pages: 160-169
   image: /img/shellthicken.png
@@ -28,6 +28,7 @@
   year: 2021
   pages: 1132-1140
   image: /img/loft-l.png
+   url: https://www.sciencedirect.com/science/article/abs/pii/S009784932100073X
 
   name: 'Fabricable Dihedral Escher Tessellations'
   type: journal
