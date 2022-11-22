@@ -28,14 +28,14 @@
   year: 2021
   pages: 1132-1140
   image: /img/loft-l.png
-   url: https://www.sciencedirect.com/science/article/abs/pii/S009784932100073X
+  url: https://www.sciencedirect.com/science/article/abs/pii/S009784932100073X
 
   name: 'Fabricable Dihedral Escher Tessellations'
   type: journal
   authors: Xiaokang Liu, Lin Lu*, Andrei Sharf, Xin Yan, Dani Lischinski, Changhe Tu
   journal: Computer-Aided Design
   volume: 127
-  issue: 
+  issue: 1
   year: 2020
   pages: 102853
   image: /img/Escher-l.png
@@ -46,7 +46,7 @@
   authors: Fanchao Zhong, Wenqiang Liu, Yu Zhou, Xin Yan, Yi Wan, Lin Lu
   journal: Computers & Graphics
   volume: 90
-  issue: 
+  issue: 1
   year: 2020
   pages: 108-115
   image: /img/sweeping-l.png
