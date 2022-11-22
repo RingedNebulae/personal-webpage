@@ -60,7 +60,7 @@ It is threatened by habitat loss.
             {{ site.data.personal.label }}
           </h2>
         </div>
-        <div class="col-xs-3 col-lg-3">
+        <div class="col-xs-6 col-lg-6">
           <img src="/personal-webpage{{ site.data.personal.picture }}" 
                class="img-circle"
                style="margin-top:-6px;width:56px;border:2px solid rgba(255,255,255,0.75)">
@@ -125,54 +125,9 @@ It is threatened by habitat loss.
   </div>
 
   <!-- ==================== -->
-  <!-- Puplication -->
-  <!-- ==================== -->
-  {% if site.data.publications.size > 0 %}
-  <div class="container">
-    <div class="row">
-      <section class="col-md-9">
-        <h3>Publications</h3>
-
-        {% for publication in site.data.publications %}
-          <p>
-            <b>
-              <a href="{{ publication.pdf }}">
-                {{ publication.title }}
-              </a>
-            </b>
-            <small>
-              {{ publication.year }}
-            </small>
-            <br>
-            {{ publication.authors }}
-            <br>
-            {% case publication.type %}
-              {% when 'conference' %}
-                {{ publication.conference }}
-              {% when 'dissertation' %}
-                {{ publication.publisher }}
-              {% when 'journal' %}
-                {{ publication.journal }},
-                {{ publication.volume }},
-                {{ publication.issue }},
-                {{ publication.pages }}
-              {% when 'magazine' %}
-                {{ publication.magazine }},
-                {{ publication.volume }},
-                {{ publication.issue }},
-                {{ publication.pages }}
-            {% endcase %}
-          </p>
-        {% endfor %}
-      </section>
-    </div>
-  </div>
-  {% endif %}
-
-  {% if site.data.projects.size > 0 %}
-  <!-- ==================== -->
   <!-- PROJECTS -->
   <!-- ==================== -->
+  {% if site.data.projects.size > 0 %}
   <section class="container">
     <div class="row">
       <div class="col-md-9">
@@ -209,11 +164,6 @@ It is threatened by habitat loss.
           </p>
 
           <p>
-            <b>
-              <a href="{{ publication.pdf }}">
-                {{ project.name }}
-              </a>
-            </b>
             <small>
               {{ project.year }}
             </small>
@@ -243,42 +193,7 @@ It is threatened by habitat loss.
   </section>
   {% endif %}
 
-  {% if site.data.presentations.size > 0 %}
-  <!-- ==================== -->
-  <!-- PRESENTATIONS -->
-  <!-- ==================== -->
-  <section class="container">
-    <div class="row">
-      <div class="col-md-9">
-        <h3>Presentations</h3>
-      </div>
-    </div>
-
-    {% for presentation in site.data.presentations %}
-      <div class="row">
-        <div class="col-md-9">
-          <p>
-            <b>
-              {% if presentation.slides_url %}
-                <a href="{{ presentation.slides_url }}">
-                  {{ presentation.title }}
-                </a>
-              {% else %}
-                {{ presentation.title }}
-              {% endif %}
-            </b>
-            <small>
-              {{ presentation.date }}
-            </small>
-            <br>
-            {{ presentation.location }}
-          </p>
-        </div>
-      </div>
-    {% endfor %}
-  </section>
-  {% endif %}
-
+ 
   <!-- ==================== -->
   <!-- FOOTER -->
   <!-- ==================== -->
@@ -291,7 +206,7 @@ It is threatened by habitat loss.
       </div>
       <div class="row">
         <div class="col-xs-12">          
-          <img src="{{ site.baseurl }}/img/elbowpatched-icon.svg" alt="Elbowpatched"
+          <img src="/personal-webpage/img/elbowpatched-icon.svg" alt="Elbowpatched"
                style="float:left;margin-right:5px;width:20px;height:20px;">
           Powered by 
           <a href="http://www.elbowpatched.com">
