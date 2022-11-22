@@ -1,16 +1,77 @@
 -
-  name: 'Personal Informatics &amp; Context: Using Context to Reveal Factors that Affect Behavior'
+  name: 'Man-made by Computer: On-the-Fly Fine Texture 3D Printing'
+  type: conference
+  authors: Xin Yan, Lin Lu, Andrei Sharf, Yu Xing, Yulu Sun 
+  conference: ACM Symposiumon on Computational Fabrication
+  year: 2021
+  pages: 1-10
+  pdf: https://dl.acm.org/doi/10.1145/3485114.3485119
+  image: /img/phyTexture.png
+  url: https://irc.cs.sdu.edu.cn/3DPTextures/index.html
+-
+  name: 'Shell Thickening for Extrusion-Based Ceramics Printing'
   type: journal
-  authors: Ian Li, Anind K. Dey, Jodi Forlizzi
-  journal: ACM Transactions on Computer Human Interaction
-  volume: 19 
-  issue: 1
-  year: 2012
-  month: March
-  pdf: http://www.personalinformatics.org/docs/papers/2012-ianli-tochi-physical-activity.pdf
-  image: /img/phd-thesis.png
-  url: http://ianli.com/thesis/
+  authors: Yu Xing, Yu Zhou, Xin Yan, Haisen Zhao, Wenqiang Liu, Jingbo Jiang, Lin Lu
+  journal: Computers & Graphics
+  volume: 97
+  year: 2021
+  pages: 160-169
+  image: /img/shellthicken.png
+  url: https://www.sciencedirect.com/science/article/abs/pii/S009784932100073X
 -
+  name: 'Two-Scale Lofted Surfaces Modeling for Ceramic 3D Printing'
+  type: journal
+  authors: Yu Zhou, Wenqiang Liu, Fanchao Zhong, Xin Yan, Lin Lu
+  journal: Journal of Computer-Aided Design & Computer Graphics
+  volume: 33
+  issue: 7
+  year: 2021
+  pages: 1132-1140
+  image: /img/loft-l.png
+  url: https://www.jcad.cn/jcadcms/show.action?code=publish_402880124b362464014b3c4d819803a1&newsid=34511b3c4cd346f5a1aa94fe1a9a553e
 
--
+  name: 'Fabricable Dihedral Escher Tessellations'
+  type: journal
+  authors: Xiaokang Liu, Lin Lu*, Andrei Sharf, Xin Yan, Dani Lischinski, Changhe Tu
+  journal: Computer-Aided Design
+  volume: 127
+  year: 2020
+  month: May
+  pages: 102853
+  image: /img/Escher-l.png
+  url: http://irc.cs.sdu.edu.cn/Dihedral/index.html
+
+  name: 'Ceramic 3D Printed Sweeping Surfaces'
+  type: journal
+  authors: Fanchao Zhong, Wenqiang Liu, Yu Zhou, Xin Yan, Yi Wan, Lin Lu
+  journal: Computers & Graphics
+  volume: 90
+  year: 2020
+  pages: 108-115
+  image: /img/sweeping-l.png
+  url: http://irc.cs.sdu.edu.cn/sweeping/index.html
+
+  name: 'Strong 3D Printing by TPMS Injection'
+  type: journal
+  authors: Xin Yan, Cong Rao, Lin Lu*, Andrei Sharf, Haisen Zhao, Baoquan Chen
+  journal: IEEE Transactions on Visualization and Computer Graphics (TVCG)
+  volume: 26
+  issue: 10
+  year: 2019
+  month: April
+  pages: 3037-3050
+  image: /img/injection-l.png
+  url: ttp://irc.cs.sdu.edu.cn/TPMSInjection/index.html
+
+  name: 'Anisotropic Porous Structure Modeling for 3D Printed Objects'
+  type: journal
+  authors: Jianming Ying, Lin Lu*, Lihao Tian, Xin Yan, Baoquan Chen
+  journal: Computers & Graphics
+  volume: 70
+  issue: 10
+  year: 2018
+  month: February
+  pages: 157-164
+  image: /img/ACVT-l.png
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0097849317301012
   
