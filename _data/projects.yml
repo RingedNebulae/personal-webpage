@@ -13,6 +13,7 @@
   authors: Yu Xing, Yu Zhou, Xin Yan, Haisen Zhao, Wenqiang Liu, Jingbo Jiang, Lin Lu
   journal: Computers & Graphics
   volume: 97
+  issue: 
   year: 2021
   pages: 160-169
   image: /img/shellthicken.png
@@ -33,6 +34,7 @@
   authors: Xiaokang Liu, Lin Lu*, Andrei Sharf, Xin Yan, Dani Lischinski, Changhe Tu
   journal: Computer-Aided Design
   volume: 127
+  issue: 
   year: 2020
   pages: 102853
   image: /img/Escher-l.png
@@ -43,6 +45,7 @@
   authors: Fanchao Zhong, Wenqiang Liu, Yu Zhou, Xin Yan, Yi Wan, Lin Lu
   journal: Computers & Graphics
   volume: 90
+  issue: 
   year: 2020
   pages: 108-115
   image: /img/sweeping-l.png
