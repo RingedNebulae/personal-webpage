@@ -18,7 +18,7 @@
   image: /img/shellthicken.png
   url: https://www.sciencedirect.com/science/article/abs/pii/S009784932100073X
 -
-  name: 'Two-Scale Lofted Surfaces Modeling for Ceramic 3D Printing'
+  name: 'Two-Scale Lofted Surfaces Modeling for Ceramic 3D Printing(in Chinese)'
   type: journal
   authors: Yu Zhou, Wenqiang Liu, Fanchao Zhong, Xin Yan, Lin Lu
   journal: Journal of Computer-Aided Design & Computer Graphics
@@ -27,7 +27,6 @@
   year: 2021
   pages: 1132-1140
   image: /img/loft-l.png
-  url: https://www.jcad.cn/jcadcms/show.action?code=publish_402880124b362464014b3c4d819803a1&newsid=34511b3c4cd346f5a1aa94fe1a9a553e
 
   name: 'Fabricable Dihedral Escher Tessellations'
   type: journal
