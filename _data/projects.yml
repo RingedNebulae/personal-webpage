@@ -19,6 +19,17 @@
   image: /img/shellthicken.png
   url: https://www.sciencedirect.com/science/article/abs/pii/S009784932100073X
 -
+  name: 'Two-Scale Lofted Surfaces Modeling for Ceramic 3D Printing(in Chinese)'
+  type: journal
+  authors: Yu Zhou, Wenqiang Liu, Fanchao Zhong, Xin Yan, Lin Lu
+  journal: Journal of Computer-Aided Design & Computer Graphics
+  volume: 33
+  issue: 7
+  year: 2021
+  pages: 1132-1140
+  image: /img/loft-l.png
+  url: https://www.sciencedirect.com/science/article/abs/pii/S009784932100073X
+
   name: 'Fabricable Dihedral Escher Tessellations'
   type: journal
   authors: Xiaokang Liu, Lin Lu*, Andrei Sharf, Xin Yan, Dani Lischinski, Changhe Tu
@@ -63,13 +74,3 @@
   image: /img/ACVT-l.png
   url: https://www.sciencedirect.com/science/article/abs/pii/S0097849317301012
   
-  name: 'Two-Scale Lofted Surfaces Modeling for Ceramic 3D Printing(in Chinese)'
-  type: journal
-  authors: Yu Zhou, Wenqiang Liu, Fanchao Zhong, Xin Yan, Lin Lu
-  journal: Journal of Computer-Aided Design & Computer Graphics
-  volume: 33
-  issue: 7
-  year: 2021
-  pages: 1132-1140
-  image: /img/loft-l.png
-  url: https://www.sciencedirect.com/science/article/abs/pii/S009784932100073X
