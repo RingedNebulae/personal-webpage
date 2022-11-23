@@ -8,7 +8,7 @@ body {
   font-family:'Roboto', 'Arial', sans-serif;
   font-size:16px;
   padding-top:120px !important;
-  color:rgb(216, 222, 224);
+  color:rgb(255, 255, 255);
 }
 
 /*******************
@@ -21,7 +21,7 @@ header {
   left:0;
   right:0;
   padding:32px 0;
-  color:rgb(225, 235, 238);
+  color:rgb(253, 253, 253);
 }
   header h1 {
     margin:0;
@@ -74,7 +74,7 @@ section {
 .intro-screen,
 .intro-screen header {
   background-color:#649ec5;
-  color:rgb(216, 222, 224);
+  color:rgb(173, 209, 221);
 }
   .intro-screen h1,
   .intro-screen h2,
