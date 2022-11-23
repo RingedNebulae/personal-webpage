@@ -21,7 +21,7 @@ header {
   left:0;
   right:0;
   padding:32px 0;
-  color:rgb(253, 253, 253);
+  background-color:#fff;
 }
   header h1 {
     margin:0;
@@ -41,6 +41,7 @@ footer {
   font-size:14px;
 }
 
+
 /*******************
  * SECTION
  *******************/
@@ -52,7 +53,7 @@ section {
     line-height:40px;
     font-weight:bold;
     font-size:32px;
-    color:#ff5722;
+    color:#22a7ff;
   }
   section .lead {
     font-size:20px;
@@ -79,10 +80,19 @@ section {
   .intro-screen h1,
   .intro-screen h2,
   .intro-screen h3 {
-    color:rgb(78, 77, 77);
+    color:#fff;
   }
   .intro-screen a,
   .intro-screen a:hover {
     color:#fff59d;
   }
 
+/*******************
+ * TRANSITIONS
+ *******************/
+ body,
+ header {
+   -webkit-transition:background-color 1.5s;
+      -moz-transition:background-color 1.5s;
+           transition:background-color 1.5s;
+ }
