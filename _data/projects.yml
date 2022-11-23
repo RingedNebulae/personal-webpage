@@ -1,7 +1,14 @@
 -
+  name: 'Design and Applications of Triply Periodic Minimal Surfaces: a Survey(to appear)'
+  type: journal
+  authors: <strong>Yan Xin</strong>, Tian Lihao, Peng Hao, Lu Lin*
+  journal: Journal of Computer-Aided Design & Computer Graphics(in Chinese)
+  year: 2022
+  image: /img/phyTexture.png
+-
   name: 'Man-made by Computer: On-the-Fly Fine Texture 3D Printing'
   type: conference
-  authors: Xin Yan, Lin Lu, Andrei Sharf, Yu Xing, Yulu Sun 
+  authors: Xin Yan, Lin Lu*, Andrei Sharf, Yu Xing, Yulu Sun 
   conference: ACM Symposiumon on Computational Fabrication
   year: 2021
   pages: 1-10
@@ -10,7 +17,7 @@
 -
   name: 'Shell Thickening for Extrusion-Based Ceramics Printing'
   type: journal
-  authors: Yu Xing, Yu Zhou, Xin Yan, Haisen Zhao, Wenqiang Liu, Jingbo Jiang, Lin Lu
+  authors: Yu Xing, Yu Zhou, Xin Yan, Haisen Zhao, Wenqiang Liu, Jingbo Jiang, Lin Lu*
   journal: Computers & Graphics
   volume: 97
   issue: 1
@@ -19,10 +26,10 @@
   image: /img/shellthicken.png
   url: https://www.sciencedirect.com/science/article/abs/pii/S009784932100073X
 -
-  name: 'Two-Scale Lofted Surfaces Modeling for Ceramic 3D Printing(in Chinese)'
+  name: 'Two-Scale Lofted Surfaces Modeling for Ceramic 3D Printing'
   type: journal
-  authors: Yu Zhou, Wenqiang Liu, Fanchao Zhong, Xin Yan, Lin Lu
-  journal: Journal of Computer-Aided Design & Computer Graphics
+  authors: Yu Zhou, Wenqiang Liu, Fanchao Zhong, Xin Yan, Lin Lu*
+  journal: Journal of Computer-Aided Design & Computer Graphics(in Chinese)
   volume: 33
   issue: 7
   year: 2021
