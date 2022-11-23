@@ -1,14 +1,14 @@
 -
   name: 'Design and Applications of Triply Periodic Minimal Surfaces: a Survey(to appear)'
   type: journal
-  authors: <strong>Yan Xin</strong>, Tian Lihao, Peng Hao, Lu Lin*
+  authors: <i><strong>Yan Xin</strong></i>, Tian Lihao, Peng Hao, Lu Lin*
   journal: Journal of Computer-Aided Design & Computer Graphics(in Chinese)
   year: 2022
   image: /img/tpms-survey.png
 -
   name: 'Man-made by Computer: On-the-Fly Fine Texture 3D Printing'
   type: conference
-  authors: Xin Yan, Lin Lu*, Andrei Sharf, Yu Xing, Yulu Sun 
+  authors: <i><strong>Xin Yan, Lin Lu*, Andrei Sharf, Yu Xing, Yulu Sun 
   conference: ACM Symposiumon on Computational Fabrication
   year: 2021
   pages: 1-10
@@ -17,7 +17,7 @@
 -
   name: 'Shell Thickening for Extrusion-Based Ceramics Printing'
   type: journal
-  authors: Yu Xing, Yu Zhou, Xin Yan, Haisen Zhao, Wenqiang Liu, Jingbo Jiang, Lin Lu*
+  authors: Yu Xing, Yu Zhou, <i><strong>Xin Yan</strong></i>, Haisen Zhao, Wenqiang Liu, Jingbo Jiang, Lin Lu*
   journal: Computers & Graphics
   volume: 97
   issue: 1
@@ -28,7 +28,7 @@
 -
   name: 'Two-Scale Lofted Surfaces Modeling for Ceramic 3D Printing'
   type: journal
-  authors: Yu Zhou, Wenqiang Liu, Fanchao Zhong, Xin Yan, Lin Lu*
+  authors: Yu Zhou, Wenqiang Liu, Fanchao Zhong, <i><strong>Xin Yan</strong></i>, Lin Lu*
   journal: Journal of Computer-Aided Design & Computer Graphics(in Chinese)
   volume: 33
   issue: 7
@@ -39,7 +39,7 @@
 -
   name: 'Fabricable Dihedral Escher Tessellations'
   type: journal
-  authors: Xiaokang Liu, Lin Lu*, Andrei Sharf, Xin Yan, Dani Lischinski, Changhe Tu
+  authors: Xiaokang Liu, Lin Lu*, Andrei Sharf, <i><strong>Xin Yan</strong></i>, Dani Lischinski, Changhe Tu
   journal: Computer-Aided Design
   volume: 127
   issue: 1
@@ -50,7 +50,7 @@
 -
   name: 'Ceramic 3D Printed Sweeping Surfaces'
   type: journal
-  authors: Fanchao Zhong, Wenqiang Liu, Yu Zhou, Xin Yan, Yi Wan, Lin Lu
+  authors: Fanchao Zhong, Wenqiang Liu, Yu Zhou, <i><strong>Xin Yan</strong></i>, Yi Wan, Lin Lu
   journal: Computers & Graphics
   volume: 90
   issue: 1
@@ -61,7 +61,7 @@
 -
   name: 'Strong 3D Printing by TPMS Injection'
   type: journal
-  authors: Xin Yan, Cong Rao, Lin Lu*, Andrei Sharf, Haisen Zhao, Baoquan Chen
+  authors: <i><strong>Xin Yan</strong></i>, Cong Rao, Lin Lu*, Andrei Sharf, Haisen Zhao, Baoquan Chen
   journal: IEEE Transactions on Visualization and Computer Graphics (TVCG)
   volume: 26
   issue: 10
@@ -72,7 +72,7 @@
 -
   name: 'Anisotropic Porous Structure Modeling for 3D Printed Objects'
   type: journal
-  authors: Jianming Ying, Lin Lu*, Lihao Tian, Xin Yan, Baoquan Chen
+  authors: Jianming Ying, Lin Lu*, Lihao Tian, <i><strong>Xin Yan</strong></i>, Baoquan Chen
   journal: Computers & Graphics
   volume: 70
   issue: 10
