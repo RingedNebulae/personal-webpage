@@ -29,7 +29,7 @@
   pages: 1132-1140
   image: /img/loft-l.png
   url: https://www.sciencedirect.com/science/article/abs/pii/S009784932100073X
-
+-
   name: 'Fabricable Dihedral Escher Tessellations'
   type: journal
   authors: Xiaokang Liu, Lin Lu*, Andrei Sharf, Xin Yan, Dani Lischinski, Changhe Tu
@@ -40,7 +40,7 @@
   pages: 102853
   image: /img/Escher-l.png
   url: http://irc.cs.sdu.edu.cn/Dihedral/index.html
-
+-
   name: 'Ceramic 3D Printed Sweeping Surfaces'
   type: journal
   authors: Fanchao Zhong, Wenqiang Liu, Yu Zhou, Xin Yan, Yi Wan, Lin Lu
@@ -51,7 +51,7 @@
   pages: 108-115
   image: /img/sweeping-l.png
   url: http://irc.cs.sdu.edu.cn/sweeping/index.html
-
+-
   name: 'Strong 3D Printing by TPMS Injection'
   type: journal
   authors: Xin Yan, Cong Rao, Lin Lu*, Andrei Sharf, Haisen Zhao, Baoquan Chen
@@ -62,7 +62,7 @@
   pages: 3037-3050
   image: /img/injection-l.png
   url: http://irc.cs.sdu.edu.cn/TPMSInjection/index.html
-
+-
   name: 'Anisotropic Porous Structure Modeling for 3D Printed Objects'
   type: journal
   authors: Jianming Ying, Lin Lu*, Lihao Tian, Xin Yan, Baoquan Chen
@@ -73,4 +73,3 @@
   pages: 157-164
   image: /img/ACVT-l.png
   url: https://www.sciencedirect.com/science/article/abs/pii/S0097849317301012
-  
