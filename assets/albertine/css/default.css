@@ -53,16 +53,19 @@ section {
     line-height:40px;
     font-weight:bold;
     font-size:32px;
-    color:#22a7ff;
+    color:#00070c;
   }
   section .lead {
     font-size:20px;
+    color:#00070c;
   }
   section p {
     margin-bottom:1em;
+    color:#00070c;
   }
   section p small {
     opacity:0.5;
+    color:#00070c;
   }
   section a,
   section a:hover {
