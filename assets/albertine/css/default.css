@@ -9,6 +9,7 @@ body {
   font-size:16px;
   padding-top:120px !important;
   color:#fff;
+  background-color:#649ec5;
 }
 
 /*******************
@@ -39,6 +40,7 @@ footer {
   padding:48px 0 96px;
   line-height:20px;
   font-size:14px;
+  background-color:#649ec5;
 }
 
 
@@ -47,6 +49,7 @@ footer {
  *******************/
 section {
   padding:55px 0;
+  background-color:#649ec5;
 }
   section h3 {
     padding:0 0 8px;
