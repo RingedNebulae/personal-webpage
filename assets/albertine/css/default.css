@@ -79,7 +79,7 @@ section {
   .intro-screen h1,
   .intro-screen h2,
   .intro-screen h3 {
-    color:#fff;
+    color:rgb(78, 77, 77);
   }
   .intro-screen a,
   .intro-screen a:hover {
