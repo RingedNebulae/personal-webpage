@@ -170,6 +170,51 @@ It is threatened by habitat loss.
 
  
   <!-- ==================== -->
+  <!-- PUBLICATIONS -->
+  <!-- ==================== -->
+  {% if site.data.publications.size > 0 %}
+  <div class="container">
+    <div class="row">
+      <section class="col-md-9">
+        <h3>Publications</h3>
+
+        {% for publication in site.data.publications %}
+          <p>
+            <b>
+              <a href="{{ publication.pdf }}">
+                {{ publication.title }}
+              </a>
+            </b>
+            <small>
+              {{ publication.year }}
+            </small>
+            <br>
+            {{ publication.authors }}
+            <br>
+            {% case publication.type %}
+              {% when 'conference' %}
+                {{ publication.conference }}
+              {% when 'dissertation' %}
+                {{ publication.publisher }}
+              {% when 'journal' %}
+                {{ publication.journal }},
+                {{ publication.volume }},
+                {{ publication.issue }},
+                {{ publication.pages }}
+              {% when 'magazine' %}
+                {{ publication.magazine }},
+                {{ publication.volume }},
+                {{ publication.issue }},
+                {{ publication.pages }}
+            {% endcase %}
+          </p>
+        {% endfor %}
+      </section>
+    </div>
+  </div>
+  {% endif %}
+
+  <!-- ==================== -->
   <!-- FOOTER -->
   <!-- ==================== -->
   <footer>
