@@ -8,7 +8,7 @@
   month: March
   pdf: http://www.personalinformatics.org/docs/papers/2012-ianli-tochi-physical-activity.pdf
   url: http://dl.acm.org/citation.cfm?id=2147783.2147790
---
+
   type: conference
   title: "Understanding My Data, Myself: Supporting Self-Reflection with Ubicomp Technologies"
   authors: Ian Li, Anind Dey, Jodi Forlizzi
@@ -17,7 +17,7 @@
   pages: 405-414
   pdf: http://ianli.com/publications/2011-ianli-ubicomp-understanding-my-data.pdf
   url: http://dl.acm.org/citation.cfm?id=2030166
--
+
   type: conference
   title: A stage-based model of personal informatics systems
   authors: Ian Li, Anind Dey, Jodi Forlizzi
@@ -26,7 +26,7 @@
   pages: 557-566
   pdf: http://ianli.com/publications/2010-ianli-chi-stage-based-model.pdf
   url: http://dl.acm.org/citation.cfm?id=1753326.1753409
-- 
+
   type: conference
   title: "Here's What I Did: Sharing and Reusing Web Activity with ActionShot"
   authors: Ian Li, Jeffrey Nichols, Tessa Lau, Clemens Drews, Allen Cypher
@@ -35,8 +35,7 @@
   pages: 723-732
   pdf: http://ianli.com/publications/2010-ianli-chi-actionshot.pdf
   url: http://dl.acm.org/citation.cfm?id=1753326.1753432
--
--
+
   type: conference
   title: Using Visualizations to Increase Compliance in Experience Sampling
   authors: Gary Hsieh, Ian Li, Anind Dey, Jodi Forlizzi, Scott Hudson
