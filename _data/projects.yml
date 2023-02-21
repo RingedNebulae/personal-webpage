@@ -1,8 +1,8 @@
 -
-  name: 'Design and Applications of Triply Periodic Minimal Surfaces: a Survey(to appear)'
+  name: 'Design and Applications of Triply Periodic Minimal Surfaces: a Survey (to appear)'
   type: Toappear
   authors: <i><strong>Xin Yan</strong></i>, Lihao Tian, Hao Peng, Lin Lu*
-  journal: Journal of Computer-Aided Design & Computer Graphics(in Chinese)
+  journal: Journal of Computer-Aided Design & Computer Graphics (in Chinese)
   year: 2022
   image: /img/tpms-survey.png
 -
@@ -29,7 +29,7 @@
   name: 'Two-Scale Lofted Surfaces Modeling for Ceramic 3D Printing'
   type: journal
   authors: Yu Zhou, Wenqiang Liu, Fanchao Zhong, <i><strong>Xin Yan</strong></i>, Lin Lu*
-  journal: Journal of Computer-Aided Design & Computer Graphics(in Chinese)
+  journal: Journal of Computer-Aided Design & Computer Graphics (in Chinese)
   volume: 33
   issue: 7
   year: 2021
@@ -62,7 +62,7 @@
   name: 'Strong 3D Printing by TPMS Injection'
   type: journal
   authors: <i><strong>Xin Yan</strong></i>, Cong Rao, Lin Lu*, Andrei Sharf, Haisen Zhao, Baoquan Chen
-  journal: IEEE Transactions on Visualization and Computer Graphics (TVCG)
+  journal: IEEE Transactions on Visualization and Computer Graphics  (TVCG)
   volume: 26
   issue: 10
   year: 2019
