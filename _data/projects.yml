@@ -1,5 +1,5 @@
 -
-  name: 'Recent Progress on Geometric Microstructure Design: A Survey' (to appear)
+  name: 'Recent Progress on Geometric Microstructure Design: A Survey (to appear)'
   type: journal
   authors: Lihao Tian, Lin Lu*, Hao Peng,Liu Peiqing, <i><strong>Xin Yan</strong></i>, Liu Ligang, Tu Changhe
   journal: Chinese Journal of Computers (in Chinese)
@@ -12,6 +12,9 @@
   authors: <i><strong>Xin Yan</strong></i>, Lihao Tian, Hao Peng, Lin Lu*
   journal: Journal of Computer-Aided Design & Computer Graphics (in Chinese)
   year: 2023
+  volume: 35
+  issue: 4
+  pages: 1-12
   image: /img/tpms-survey.png
   url: https://kns.cnki.net/kcms/detail/11.2925.TP.20230410.1550.010.html
 -
