@@ -1,10 +1,14 @@
 -
-  name: 'Recent Progress on Geometric Microstructure Design: A Survey (to appear)'
+  name: 'Recent Progress on Geometric Microstructure Design: A Survey'
   type: journal
   authors: Lihao Tian, Lin Lu*, Hao Peng,Liu Peiqing, <i><strong>Xin Yan</strong></i>, Liu Ligang, Tu Changhe
   journal: Chinese Journal of Computers (in Chinese)
   year: 2023
+  volume: 46
+  issue: 5
+  pages: 1-27
   image: /img/microstructure-survey.jpg
+  url: http://cjc.ict.ac.cn/online/bfpub/lht-2023321104414.pdf
 -
   name: 'Design and Applications of Triply Periodic Minimal Surfaces: A Survey'
   type: journal
