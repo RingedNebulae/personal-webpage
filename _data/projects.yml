@@ -2,7 +2,7 @@
   name: 'Parametric Plate Lattices: Modeling and Optimization of Plate Lattices with Superior Mechanical Properties(to appear)'
   type: journal
   authors: Bingteng Sun#, <i><strong>Xin Yan#</strong></i>, peiqing Liu, Yang Xia, Lin Lu* (# joint first author)
-  journal: Additive Manufacturing
+  journal: Additive Manufacturing (AM)
   year: 2023
   image: /img/ppl.jpg
   url: https://irc.cs.sdu.edu.cn/3DPTextures/index.html
@@ -63,7 +63,7 @@
   name: 'Fabricable Dihedral Escher Tessellations'
   type: journal
   authors: Xiaokang Liu, Lin Lu*, Andrei Sharf, <i><strong>Xin Yan</strong></i>, Dani Lischinski, Changhe Tu
-  journal: Computer-Aided Design
+  journal: Computer-Aided Design (CAD)
   volume: 127
   issue: 1
   year: 2020
