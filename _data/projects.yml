@@ -1,11 +1,13 @@
 -
-  name: 'Parametric Plate Lattices: Modeling and Optimization of Plate Lattices with Superior Mechanical Properties(to appear)'
+  name: 'Parametric Plate Lattices: Modeling and Optimization of Plate Lattices with Superior Mechanical Properties'
   type: journal
   authors: Bingteng Sun#, <i><strong>Xin Yan#</strong></i>, peiqing Liu, Yang Xia, Lin Lu* (# joint first author)
   journal: Additive Manufacturing (AM)
   year: 2023
+  volume: 72
+  pages: 103626
   image: /img/ppl.jpg
-  url: https://irc.cs.sdu.edu.cn/3DPTextures/index.html
+  url: https://doi.org/10.1016/j.addma.2023.103626
 -
   name: 'Recent Progress on Geometric Microstructure Design: A Survey'
   type: journal
