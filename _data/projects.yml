@@ -1,4 +1,10 @@
 -
+  name: 'VASCO: Volume and Surface Co-Decomposition for Hybrid Manufacturing'
+  type: journal
+  authors: Fanchao Zhong, Haisen Zhao*, Haochen Li, <i><strong>Xin Yan</strong></i>, Jikai Liu, Baoquan Chen, Lin Lu*
+  journal: Conditionally accepted to SIGGRAPH Asia 2023 (Journal track)
+  image: /img/HM-teaser.png
+-
   name: 'Parametric Plate Lattices: Modeling and Optimization of Plate Lattices with Superior Mechanical Properties'
   type: journal
   authors: Bingteng Sun#, <i><strong>Xin Yan#</strong></i>, peiqing Liu, Yang Xia, Lin Lu* (# joint first author)
