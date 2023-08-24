@@ -1,6 +1,6 @@
 -
   name: 'VASCO: Volume and Surface Co-Decomposition for Hybrid Manufacturing'
-  type: journal
+  type: conference
   authors: Fanchao Zhong, Haisen Zhao*, Haochen Li, <i><strong>Xin Yan</strong></i>, Jikai Liu, Baoquan Chen, Lin Lu*
   journal: Conditionally accepted to SIGGRAPH Asia 2023 (Journal track)
   image: /img/HM-teaser.png
@@ -17,7 +17,7 @@
 -
   name: 'Recent Progress on Geometric Microstructure Design: A Survey'
   type: journal
-  authors: Lihao Tian, Lin Lu*, Hao Peng,Liu Peiqing, <i><strong>Xin Yan</strong></i>, Liu Ligang, Tu Changhe
+  authors: Lihao Tian, Lin Lu*, Hao Peng, Liu Peiqing, <i><strong>Xin Yan</strong></i>, Liu Ligang, Tu Changhe
   journal: Chinese Journal of Computers (in Chinese)
   year: 2023
   volume: 46
