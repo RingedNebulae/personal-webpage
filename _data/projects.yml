@@ -3,12 +3,14 @@
   type: conference
   authors: Fanchao Zhong, Haisen Zhao*, Haochen Li, <i><strong>Xin Yan</strong></i>, Jikai Liu, Baoquan Chen, Lin Lu*
   conference: Conditionally accepted to SIGGRAPH Asia 2023 (Journal track)
+  year: 2023
   image: /img/HM-teaser.jpg
 -
   name: 'Self-supporting Parametric Polyhedral Structure for 3D Printing(to appear)'
   type: conference
   authors: Yi Liu, Peng Zhang, Hang-Cheng Zhang, Weiming Wang, Tianqi Song, <i><strong>Xin Yan</strong></i>, Wei Zeng, Yi-Jun Yang*
   conference: Advances in Engineering Software
+  year: 2023
   image: /img/parametric polyhedral infill.png
 -
   name: 'Parametric Plate Lattices: Modeling and Optimization of Plate Lattices with Superior Mechanical Properties'
