@@ -168,6 +168,38 @@ It is threatened by habitat loss.
   </section>
   {% endif %}
 
+  {% if site.data.grants.size > 0 %}
+  <!-- ==================== -->
+  <!-- grants -->
+  <!-- ==================== -->
+  <section class="container">
+    <div class="row">
+      <div class="col-md-9">
+        <h3>Grants</h3>
+      </div>
+    </div>
+
+    {% for grants in site.data.grants %}
+      <div class="row">
+        <div class="col-md-9">
+          <p>
+            <b>
+              {% if grants.slides_url %}
+                <a href="{{ grants.slides_url }}">
+                  {{ grants.title }}
+                </a>
+              {% else %}
+                {{ grants.title }}
+              {% endif %}
+            </b>
+          </p>
+        </div>
+      </div>
+    {% endfor %}
+  </section>
+  {% endif %}
+
+
   <!-- ==================== -->
   <!-- FOOTER -->
   <!-- ==================== -->
