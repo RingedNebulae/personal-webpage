@@ -7,11 +7,13 @@
   image: /img/HM-teaser.jpg
   url: https://fanchao98.github.io/VASCO%20page/vasco.html
 -
-  name: 'Self-supporting Parametric Polyhedral Structure for 3D Printing(to appear)'
-  type: conference
+  name: 'Self-supporting Parametric Polyhedral Structure for 3D Printing'
+  type: journal
   authors: Yi Liu, Peng Zhang, Hang-Cheng Zhang, Weiming Wang, Tianqi Song, <i><strong>Xin Yan</strong></i>, Wei Zeng, Yi-Jun Yang*
-  conference: Advances in Engineering Software
+  journal: Advances in Engineering Software
   year: 2023
+  volume: 186
+  pages: 103529
   image: /img/parametric polyhedral infill.png
   url: http://dx.doi.org/10.1016/j.advengsoft.2023.103529
 -
