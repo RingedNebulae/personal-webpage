@@ -13,6 +13,7 @@
   conference: Advances in Engineering Software
   year: 2023
   image: /img/parametric polyhedral infill.png
+  url: http://dx.doi.org/10.1016/j.advengsoft.2023.103529
 -
   name: 'Parametric Plate Lattices: Modeling and Optimization of Plate Lattices with Superior Mechanical Properties'
   type: journal
