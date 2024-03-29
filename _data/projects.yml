@@ -1,4 +1,11 @@
 -
+  name: 'Continuous Transitions of Triply Periodic Minimal Surfaces'
+  type: journal
+  authors: Lihao Tian, Bingteng Sun, <i><strong>Xin Yan*</strong></i>, Andrei Sharf, Changhe Tu, Lin Lu*
+  journal: Additive Manufacturing (AM)
+  year: 2024
+  image: /img/TPMS-AT.jpg
+-
   name: 'VASCO: Volume and Surface Co-Decomposition for Hybrid Manufacturing'
   type: conference
   authors: Fanchao Zhong, Haisen Zhao*, Haochen Li, <i><strong>Xin Yan</strong></i>, Jikai Liu, Baoquan Chen, Lin Lu*
