@@ -5,6 +5,7 @@
   journal: Additive Manufacturing (AM)
   year: 2024
   volume: 85
+  issue: 
   pages: 104105
   image: /img/TPMS-AT.jpg
   url: https://doi.org/10.1016/j.addma.2024.104105
@@ -12,10 +13,13 @@
   name: 'VASCO: Volume and Surface Co-Decomposition for Hybrid Manufacturing'
   type: conference
   authors: Fanchao Zhong, Haisen Zhao*, Haochen Li, <i><strong>Xin Yan</strong></i>, Jikai Liu, Baoquan Chen, Lin Lu*
-  conference: Conditionally accepted to SIGGRAPH Asia 2023 (Journal track)
+  journal: ACM Transactions on Graphics (TOG)
   year: 2023
+  volume:42
+  issue:6
+  pages:1-17
   image: /img/HM-teaser.jpg
-  url: https://fanchao98.github.io/VASCO%20page/vasco.html
+  url: https://dl.acm.org/doi/epdf/10.1145/3618324
 -
   name: 'Self-supporting Parametric Polyhedral Structure for 3D Printing'
   type: journal
