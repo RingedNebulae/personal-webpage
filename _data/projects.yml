@@ -1,6 +1,6 @@
 -
   name: 'Continuous Transitions of Triply Periodic Minimal Surfaces'
-  type: journal
+  type: journal2
   authors: Lihao Tian, Bingteng Sun, <i><strong>Xin Yan*</strong></i>, Andrei Sharf, Changhe Tu, Lin Lu*
   journal: Additive Manufacturing (AM)
   year: 2024
@@ -32,12 +32,11 @@
   url: http://dx.doi.org/10.1016/j.advengsoft.2023.103529
 -
   name: 'Parametric Plate Lattices: Modeling and Optimization of Plate Lattices with Superior Mechanical Properties'
-  type: journal
+  type: journal2
   authors: Bingteng Sun#, <i><strong>Xin Yan#</strong></i>, Peiqing Liu, Yang Xia, Lin Lu* (# joint first author)
   journal: Additive Manufacturing (AM)
   year: 2023
   volume: 72
-  issue: 6
   pages: 103626
   image: /img/ppl.jpg
   url: https://doi.org/10.1016/j.addma.2023.103626
@@ -74,11 +73,10 @@
   url: https://irc.cs.sdu.edu.cn/3DPTextures/index.html
 -
   name: 'Shell Thickening for Extrusion-Based Ceramics Printing'
-  type: journal
+  type: journal2
   authors: Yu Xing, Yu Zhou, <i><strong>Xin Yan</strong></i>, Haisen Zhao, Wenqiang Liu, Jingbo Jiang, Lin Lu*
   journal: Computers & Graphics
   volume: 97
-  issue: 1
   year: 2021
   pages: 160-169
   image: /img/shellthicken.png
@@ -96,22 +94,20 @@
   url: https://www.jcad.cn/jcadcms/show.action?code=publish_402880124b362464014b3c4d819803a1&newsid=34511b3c4cd346f5a1aa94fe1a9a553e
 -
   name: 'Fabricable Dihedral Escher Tessellations'
-  type: journal
+  type: journal2
   authors: Xiaokang Liu, Lin Lu*, Andrei Sharf, <i><strong>Xin Yan</strong></i>, Dani Lischinski, Changhe Tu
   journal: Computer-Aided Design (CAD)
   volume: 127
-  issue: 1
   year: 2020
   pages: 102853
   image: /img/Escher-l.png
   url: http://irc.cs.sdu.edu.cn/Dihedral/index.html
 -
   name: 'Ceramic 3D Printed Sweeping Surfaces'
-  type: journal
+  type: journal2
   authors: Fanchao Zhong, Wenqiang Liu, Yu Zhou, <i><strong>Xin Yan</strong></i>, Yi Wan, Lin Lu*
   journal: Computers & Graphics
   volume: 90
-  issue: 1
   year: 2020
   pages: 108-115
   image: /img/sweeping-l.png
