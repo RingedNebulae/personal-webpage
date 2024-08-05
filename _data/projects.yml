@@ -4,7 +4,7 @@
   authors: toappear
   conference: Conditionally accepted to SIGGRAPH Asia 2024(Conference track)
   year: 2024
-  image:/img/wireart.png
+  image: /img/wireart.png
 -
   name: 'Continuous Transitions of Triply Periodic Minimal Surfaces'
   type: journal2
