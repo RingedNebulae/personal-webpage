@@ -1,11 +1,4 @@
 -
-  name: ‘Tune-It: Optimizing Wire Reconfiguration for Sculpture Manufacturing(to appear)’
-  type: conference
-  authors: to appear
-  conference: Conditionally accepted to SIGGRAPH Asia 2024(Conference track)
-  year: 2024
-  image:/img/wireart.png
--
   name: 'Continuous Transitions of Triply Periodic Minimal Surfaces'
   type: journal2
   authors: Lihao Tian, Bingteng Sun, <i><strong>Xin Yan*</strong></i>, Andrei Sharf, Changhe Tu, Lin Lu*
