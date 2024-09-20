@@ -1,9 +1,11 @@
 -
   name: 'Tune-It: Optimizing Wire Reconfiguration for Sculpture Manufacturing(to appear)'
   type: conference
-  conference: Conditionally accepted to SIGGRAPH Asia 2024(Conference track)
+  authors: Qibing Wu, Zhihao Zhang, <i><strong>Xin Yan</strong></i>, Fanchao Zhong, Yueze Zhu, Xurong Lu, Runze Xue, Rui Li, Changhe Tu, Haisen Zhao*
+  conference: ACM SIGGRAPH Asia 2024, Conference track
   year: 2024
   image: /img/wireart.png
+  url: https://qibingwu.github.io/Tune-It/Tune-It.html
 -
   name: 'Continuous Transitions of Triply Periodic Minimal Surfaces'
   type: journal2
