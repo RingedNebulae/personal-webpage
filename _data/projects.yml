@@ -1,5 +1,16 @@
 -
-  name: 'Tune-It: Optimizing Wire Reconfiguration for Sculpture Manufacturing(to appear)'
+  name: 'Auto-support: traction force constrained support structures optimization for bottom-up vat photopolymerization'
+  type: journal
+  authors: Lingxin Cao, <i><strong>Xin Yan</strong></i>, Longdu Liu, Jikai Liu, Tengfei Jiang, Lin Lu*
+  journal: Virtual and Physical Prototyping
+  year: 2025
+  volume: 20
+  issue: 1
+  pages: e2466189
+  image: /img/auto_support.jpg
+  url: https://doi.org/10.1080/17452759.2025.2466189
+-
+  name: 'Tune-It: Optimizing Wire Reconfiguration for Sculpture Manufacturing'
   type: conference
   authors: Qibing Wu, Zhihao Zhang, <i><strong>Xin Yan</strong></i>, Fanchao Zhong, Yueze Zhu, Xurong Lu, Runze Xue, Rui Li, Changhe Tu, Haisen Zhao*
   conference: ACM SIGGRAPH Asia 2024, Conference track
