@@ -1,4 +1,22 @@
 -
+  name: 'DualMS: Implicit Dual-Channel Minimal Surface Optimization for Heat Exchanger Design'
+  type: conference
+  authors: Weizheng Zhang, Hao Pan, Lin Lu*, Xiaowei Duan, <i><strong>Xin Yan</strong></i>, Ruonan Wang, Qiang Du
+  conference: ACM SIGGRAPH 2025, Conference track
+  year: 2025
+  image: /img/DualMS.jpg
+  url: https://github.com/weizheng-zhang/DualMS
+-
+  name: 'A Parametric Model of Joint-Enhanced Truss Lattices with Optimization for Superior Mechanical Properties'
+  type: journal2
+  authors: Haochen Li, Bingteng Sun, Lingxin Cao, <i><strong>Xin Yan*</strong></i>, Lin Lu*,
+  journal: Materials & Design
+  year: 2025
+  volume: 254
+  pages: 113969
+  image: /img/PETL.jpg
+  url: https://doi.org/10.1016/j.addma.2025.104739
+-
   name: 'Auto-support: traction force constrained support structures optimization for bottom-up vat photopolymerization'
   type: journal
   authors: Lingxin Cao, <i><strong>Xin Yan</strong></i>, Longdu Liu, Jikai Liu, Tengfei Jiang, Lin Lu*
