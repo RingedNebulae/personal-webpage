@@ -1,4 +1,12 @@
 -
+  name: 'Waste-to-Value: Reutilized Material Maximization for Additive and Subtractive Hybrid Remanufacturing'
+  type: conference
+  authors: Fanchao Zhong and Zhenmin Zhang, Liyuan Wang, <i><strong>Xin Yan</strong></i>, Jikai Liu, Lin Lu, Haisen Zhao*
+  conference: SIGGRAPH Asia 2025 (journal track)
+  year: 2025
+  image: /img/refab.png
+  url: https://fanchao98.github.io/Refab%20page/refab.html
+-
   name: 'DualMS: Implicit Dual-Channel Minimal Surface Optimization for Heat Exchanger Design'
   type: conference
   authors: Weizheng Zhang, Hao Pan, Lin Lu*, Xiaowei Duan, <i><strong>Xin Yan</strong></i>, Ruonan Wang, Qiang Du
@@ -6,6 +14,16 @@
   year: 2025
   image: /img/DualMS.jpg
   url: https://github.com/weizheng-zhang/DualMS
+-
+  name: 'Energy Absorption Optimization of Parametric Plate Lattices'
+  type: journal2
+  authors: Bingteng Sun, <i><strong>Xin Yan*</strong></i>, Yang Xia*, Xiaoping Tian, Qiang Du, Lin Lu*
+  journal: Computers & Structures
+  year: 2025
+  volume: 316
+  pages: 107880
+  image: /img/PPLEA.png
+  url: https://doi.org/10.1016/j.compstruc.2025.107880
 -
   name: 'A Parametric Model of Joint-Enhanced Truss Lattices with Optimization for Superior Mechanical Properties'
   type: journal2
