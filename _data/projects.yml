@@ -1,4 +1,12 @@
 -
+  name: 'AutoMS: Multi-Agent Evolutionary Search for Cross-Physics Inverse Microstructure Design'
+  type: conference
+  authors: Zhenyuan Zhao†, Yu Xing†, Tianyang Xue, Lingxin Cao, <i><strong>Xin Yan</strong></i>, Lin Lu*
+  conference: ICML 2026
+  year: 2026
+  image: /img/AutoMS.jpg
+  url: https://arxiv.org/pdf/2603.27195
+-
   name: 'Waste-to-Value: Reutilized Material Maximization for Additive and Subtractive Hybrid Remanufacturing'
   type: conference
   authors: Fanchao Zhong and Zhenmin Zhang, Liyuan Wang, <i><strong>Xin Yan</strong></i>, Jikai Liu, Lin Lu, Haisen Zhao*
