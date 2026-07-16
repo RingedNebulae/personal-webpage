@@ -1,10 +1,13 @@
 -
   name: 'Graph-Theory-Based Flow Path Optimization in Baffled TPMS Heat Exchangers(to appear)'
-  type: Toappear
+  type: journal2
   authors: <i><strong>Xin Yan</strong></i>, Ruonan Wang, Xiaowei Duan, Yonghao Liu, Weizheng Zhang, Bingteng Sun, Qiang Du, Lin Lu*
   journal: Applied Thermal Engineering
   year: 2026
+  volume: 303(Part 2)
+  pages: 132134
   image: /img/ATE.jpg
+  url: https://doi.org/10.1016/j.applthermaleng.2026.132134
 -
   name: 'AutoMS: Multi-Agent Evolutionary Search for Cross-Physics Inverse Microstructure Design'
   type: conference
